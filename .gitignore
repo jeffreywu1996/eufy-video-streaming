@@ -1,0 +1,6 @@
+persistent.json
+data
+node_modules
+venv
+config.json
+.env
